@@ -1,2 +1,2 @@
-- 基于hexo搭建的个人网站
+- 搭建的个人网站
 - https://xiaojunjun-li.github.io
