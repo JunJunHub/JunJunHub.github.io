@@ -1,2 +1,2 @@
-## lyj-Jerry.github.io
-## 我的hexo博客
+- 基于hexo搭建的个人网站
+- https://xiaojunjun-li.github.io
