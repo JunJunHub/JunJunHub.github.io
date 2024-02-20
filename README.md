@@ -1,2 +1,2 @@
 - 搭建的个人网站
-- https://xiaojunjun-li.github.io
+- https://junjunhub.github.io
